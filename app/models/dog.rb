@@ -7,7 +7,7 @@ class Dog
   end
 def all
   @name
-  @bredd
+  @breed
   @age
 end
 end
