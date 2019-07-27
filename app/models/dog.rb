@@ -1,13 +1,13 @@
 class Dog
   attr :name, :breed, :age
-  def initialize
+  def initialize(name)
     @name = name
-    @breed = breed
-    @age = age
   end
   def name
     @name
   end
+  
+
   def breed
     @breed
   end
